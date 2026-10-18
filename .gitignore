@@ -1,0 +1,32 @@
+# Python environment
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Personal and assignment docs
+zadanie/
+Resume_*
+*.docx
+*.html
+*.pdf
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Duplicate output folders
+projectresults/
